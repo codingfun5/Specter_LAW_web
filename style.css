@@ -130,6 +130,16 @@
     border-radius: 50px;
     font-family: 'Montserrat', sans-serif;
     }
+    .number {
+      color: #1e313e;
+      background-color: #bb8a5e;
+      font-size: 30px;
+      margin: 20px;
+     
+      border-radius: 50px;
+      font-family: 'Montserrat', sans-serif;
+        padding: 25px;    
+    }
   .services {
     display: flex;
     flex-direction: column;
@@ -138,11 +148,19 @@
     background-color: #1e313e;
     padding: 60px;
     }
+    .service {
+      width: 80%;
+      height: auto;
+    }
   .price {
     color: #efd3a2;
     padding: 10px;
     font-size: 18px;
     font-family: 'Montserrat', sans-serif;
+    }
+    .money {
+      width: 20%;
+      height: auto;
     }
   .map {
     display: flex;
@@ -259,14 +277,16 @@
     border-radius: 50px;
     font-family: 'Montserrat', sans-serif;
 }
-.number {
-    padding: 25px;    
-}
+
   .wrapper {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     padding: -2px;
+    }
+    .service {
+      width: 100%;
+      height: auto;
     }
   .map {
     display: flex;
@@ -311,6 +331,14 @@
     }
   .reason_block {
     flex-wrap: wrap;
+    }
+    .service {
+      width: 125%;
+      height: auto;
+    }
+    .money {
+      width: 50%;
+      height: auto;
     }
   .map {
     display: flex;
