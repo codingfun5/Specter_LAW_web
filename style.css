@@ -314,6 +314,9 @@
   #myBtn {
     right: 162px;
     }
+   .heading {
+     font-size: 20px;
+   }
   .btn {
     color: #efd3a2;
     background-color: #1e313e;
