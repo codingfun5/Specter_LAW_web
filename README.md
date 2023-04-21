@@ -1,4 +1,3 @@
 # Specter_LAW_web
 https://ornate-cassata-eeb37c.netlify.app/
-[![image](https://user-images.codingfun5.com/120322290/233458251-2cfd4d87-cc3c-47c2-bc1b-f9c9dfea081c.png)
-](https://ornate-cassata-eeb37c.netlify.app/cover.webp)
+![image](https://user-images.githubusercontent.com/120322290/233615695-7bf900de-ca3c-491b-8094-53b9e1630ce7.png)
